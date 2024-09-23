@@ -1,0 +1,10 @@
+{
+	"id": "link-generator",
+	"name": "Link Generator",
+	"version": "0.1.0",
+	"minAppVersion": "0.13.23",
+	"description": "Generate a markdown link to the opened note.",
+	"author": "highwoodfield",
+	"authorUrl": "https://github.com/trydalch https://github.com/highwoodfield",
+	"isDesktopOnly": false
+}
